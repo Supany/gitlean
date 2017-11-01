@@ -1,3 +1,5 @@
-hello ~
 
-git diff learn~
+Hello ~
+this is git learnning
+we get more about git today
+
